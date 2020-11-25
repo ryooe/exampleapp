@@ -1,0 +1,3 @@
+[submodule "myexample"]
+	path = myexample
+	url = https://github.com/ryooe/exampleapp.git
