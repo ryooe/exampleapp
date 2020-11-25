@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e29dfa4-1a9f-4f06-93c8-e2b4a0ea2471" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/myexample" beforeDir="false" afterPath="$PROJECT_DIR$/myexample" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myexample/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
